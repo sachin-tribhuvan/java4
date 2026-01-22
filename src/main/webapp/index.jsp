@@ -13,7 +13,7 @@
   <!-- Header -->
   <header class="bg-indigo-700 text-white shadow-lg">
     <div class="max-w-7xl mx-auto px-6 py-6 text-center">
-      <h1 class="text-3xl font-bold tracking-wide">📚 Library Management System</h1>
+      <h1 class="text-3xl font-bold tracking-wide">VP COLLEGE Library Management System</h1>
       <p class="text-indigo-200 mt-2">Smart • Simple • Organized</p>
     </div>
   </header>
